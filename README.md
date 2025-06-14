@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 SecureVault™ - Revolutionary Quantum-Resistant Password Manager
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -128,3 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Built with ❤️ and quantum entanglement by the SecureVault Team**
 
 *"The future of password security is invisible"* - SecureVault™
+=======
+# -SecureVault
+次世代セキュアパスワード管理システム
+>>>>>>> e87956bf642e12bfd0830f1945ecdecc854a5c36
