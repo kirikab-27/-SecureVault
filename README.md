@@ -103,33 +103,14 @@ SecureVault/
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### Security Researchers
-We have a bug bounty program. Report security vulnerabilities to security@securevault.io
+We welcome contributions! Please feel free to submit issues and pull requests.
 
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Quantum Cryptography Research Team
-- Neural Interface Development Group
-- Open Source Security Community
-
-## 📞 Contact
-
-- **Website**: [securevault.io](https://securevault.io)
-- **Email**: support@securevault.io
-- **Security**: security@securevault.io
 
 ---
 
 **Built with ❤️ and quantum entanglement by the SecureVault Team**
 
 *"The future of password security is invisible"* - SecureVault™
-=======
-# -SecureVault
-次世代セキュアパスワード管理システム
->>>>>>> e87956bf642e12bfd0830f1945ecdecc854a5c36
